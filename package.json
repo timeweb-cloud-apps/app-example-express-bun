@@ -1,0 +1,16 @@
+{
+    "name": "app-example-express-bun",
+    "module": "index.ts",
+    "type": "module",
+    "scripts": {
+        "build": "echo \"Build command\"",
+        "start": "bun run index.ts"
+    },
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "@types/express": "^5.0.0",
+        "bun-types": "latest"
+    }
+}
