@@ -4,7 +4,7 @@
 
 Пример приложения [Express](https://expressjs.com/) на рантайме [Bun](https://bun.sh/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: Демо
+:tada: [Демо](https://twc-app-example-express-bun.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
